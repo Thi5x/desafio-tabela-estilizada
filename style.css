@@ -1,0 +1,48 @@
+.moda-header th{
+    background-color:  #BB86FC;
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.itens-moda td{
+    background-color:  #424250;
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.casa-header th{
+    background-color: #00C4B4;
+    font-size: 25px;
+    color: white;
+    padding: 10px;
+}
+
+.itens-casa td{
+    background-color: #424250;
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+}
+
+*{
+    margin-left: 100px;
+}
+
+table {
+    margin: 10px;
+}
+
+h1 {
+    font-size: 25px;
+    margin-left: 10px;
+    color: white;
+}
+
+html {
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p3/1987871-abstrato-preto-listras-diagonal-fundo-gratis-vetor.jpg);
+}
+
+
+
